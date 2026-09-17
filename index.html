@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Office Secret 😈</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="background">
+        <div class="blob blob1"></div>
+        <div class="blob blob2"></div>
+        <div class="blob blob3"></div>
+    </div>
+
+    <main class="container">
+
+        <!-- HOME SCREEN -->
+        <section id="homeScreen" class="screen">
+
+            <div class="emoji">👀</div>
+
+            <h1>Office Secret</h1>
+
+            <p class="subtitle">
+                Everyone has a little secret here...
+            </p>
+
+            <p class="instruction">
+                Choose your name below and discover what the office has to say about you.
+            </p>
+
+            <div id="nameList" class="name-grid">
+                <!-- Names will be added by JavaScript -->
+            </div>
+
+            <p class="warning">
+                ⚠️ Choose your own name... unless you're brave enough to choose someone else's.
+            </p>
+
+        </section>
+
+
+        <!-- REVEAL SCREEN -->
+        <section id="revealScreen" class="screen hidden">
+
+            <div class="reveal-icon">🎁</div>
+
+            <p class="small-title">
+                Your office message
+            </p>
+
+            <h2 id="personName"></h2>
+
+            <div class="message-card">
+                <div class="quote">“</div>
+                <p id="personMessage"></p>
+                <div class="quote quote-right">”</div>
+            </div>
+
+            <button id="backButton" class="back-button">
+                ← Back to Names
+            </button>
+
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
