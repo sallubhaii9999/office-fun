@@ -20,32 +20,32 @@ const people = [
 
     {
         name: "Sallu",
-        message: "Every office needs someone who can magically fix things that nobody else understands. Apparently, that person is you. No pressure. Yettiko guff laauna ta paryo ni hajur, ki kaso? Hero honi, malai paaune bhagyemaani hunxa, chaado pattau malai until it's too late."
+        message: "K ma hancy hoina ra? Paaaarraaaaaa🤟"
     },
 
     {
         name: "Sushi",
-        message: "Sustey muji, ramro sanga kaam gara."
+        message: "Gori keti ko chut chatna maan xa malai dai"
     },
 
     {
         name: "Susu",
-        message: "Congratulations! You have officially been selected for the top 1 SCAMMER of the year. Hope you get more success in this field, scammer muji, gulaa khau."
+        message: "Rando muji, Illuminati"
     },
 
     {
         name: "Rajiv",
-        message: "Tapai lai ta k vannu khai, jay baba mast molaa, life jhingaa laalaa"
+        message: "Maakaa laadley, ghop ghop ghop"
     },
 
     {
         name: "Vikrant",
-        message: "Jhaantu Singh, let's go to Punjaab, tingidingidingiding tingidingidingiding tingidingidingiding"
+        message: "Naaro van machikney, tunturi hallaudai bas aba"
     },
 
     {
-        name: "Jessy",
-        message: "Oey hoyee, Jesswindderr paaji, ki haal chaal ? Khub garmi chadyaaxa haina, khaali fan matra chainxa, kati hot huna sakeki ? saano ma jworo matra aauthyo ki k ho ? Ma jasto cool boy ko sangat garnu paryo cool huna lai"
+        name: "Jessica",
+        message: "👉👌💦🤰👶🏾🤱"
     }
 
 ];
